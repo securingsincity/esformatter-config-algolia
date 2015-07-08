@@ -1,5 +1,9 @@
 ### UNRELEASED
 
+### 1.0.1 (2015-07-08)
+
+Remove force space around comments, buggy
+
 ### 1.0.0 (2015-07-07)
 
 First release

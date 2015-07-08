@@ -6,7 +6,6 @@
     "esformatter-parseint",
     "esformatter-var-each",
     "esformatter-eol-last",
-    "esformatter-spaced-lined-comment",
     "esformatter-shebang-ignore",
     "esformatter-remove-trailing-commas"
   ],
