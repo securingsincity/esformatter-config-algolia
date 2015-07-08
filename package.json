@@ -1,0 +1,16 @@
+{
+  "name": "esformatter-config-algolia",
+  "version": "1.0.0",
+  "description": "Algolia's esformatter config.",
+  "repository": "algolia/esformatter-config-algolia",
+  "keywords": [
+    "esformatter",
+    "esformatterconfig"
+  ],
+  "author": "Algolia <support@algolia.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/algolia/esformatter-config-algolia"
+  },
+  "homepage": "https://github.com/algolia/esformatter-config-algolia"
+}
