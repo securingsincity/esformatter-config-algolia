@@ -7,7 +7,8 @@
     "esformatter-var-each",
     "esformatter-eol-last",
     "esformatter-shebang-ignore",
-    "esformatter-remove-trailing-commas"
+    "esformatter-remove-trailing-commas",
+    "esformatter-spaced-lined-comment"
   ],
   "quotes": {
     "type": "single",
@@ -18,9 +19,9 @@
       "AssignmentExpression": -1,
       "ObjectExpressionClosingBrace": -1,
       "Property": -1,
-      "FunctionExpressionClosingBrace": -1,
+      "FunctionExpressionClosingBrace": "<2",
       "FunctionDeclaration": -1,
-      "FunctionDeclarationClosingBrace": -1,
+      "FunctionDeclarationClosingBrace": "<2",
       "ThrowStatement": -1
     },
     "after": {
@@ -28,10 +29,18 @@
       "ObjectExpressionOpeningBrace": -1,
       "Property": -1,
       "FunctionExpression": -1,
-      "FunctionExpressionOpeningBrace": -1,
+      "FunctionExpressionOpeningBrace": "<2",
       "FunctionDeclaration": -1,
-      "FunctionDeclarationOpeningBrace": -1,
+      "FunctionDeclarationOpeningBrace": "<2",
       "FunctionDeclarationClosingBrace": -1
+    }
+  },
+  "whiteSpace": {
+    "before": {
+      "BlockComment": -1
+    },
+    "after": {
+      "BlockComment": -1
     }
   }
 }
