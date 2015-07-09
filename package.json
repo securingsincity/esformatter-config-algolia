@@ -1,6 +1,6 @@
 {
   "name": "esformatter-config-algolia",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Algolia's esformatter config.",
   "repository": "algolia/esformatter-config-algolia",
   "keywords": [
